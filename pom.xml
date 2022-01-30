@@ -12,7 +12,7 @@
 	<artifactId>beerstock</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>beerstock</name>
-	<description>Gerenciamento de estoque de cerveja</description>
+	<description>Gerenciamento de estoque de cerveja</description >
 	<properties>
 		<java.version>17</java.version>
 	</properties>
